@@ -14,7 +14,8 @@ Content creation is really a creative thing to do. Some companies hire people ve
 ![image](https://user-images.githubusercontent.com/107012337/172398448-d7276a76-8a9a-4950-9397-a3c552b45a4d.png)
 
 
-
+# Important 
+Make sure that you generate your own API-Keys from the OpenAi(GPT-3) website. Then only you will be able to access the services .
 
 # Dependencies
 By using pip install the following packages.
