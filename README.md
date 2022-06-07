@@ -18,4 +18,6 @@ By using pip install the following packages.
 
 # License
 
-This is licensed under 'MIT' so feel free to use 🦖
+This is licensed under 'MIT' so feel free to use. 
+
+
