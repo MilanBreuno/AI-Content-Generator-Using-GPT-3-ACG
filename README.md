@@ -3,6 +3,10 @@ Content creation is really a creative thing to do. Some companies hire people ve
 
 
 # Dependencies
+By using pip install the following packages.
+* Flask 
+* openai
+*  Additional dependency issues may arise** depends on the system and the version you use .
 
 
 # How to Use ?
@@ -10,3 +14,8 @@ Content creation is really a creative thing to do. Some companies hire people ve
 * Extract and unzip it
 * Open VS code (or) any code editors 
 * app.py is the main file , Run it using python app.py
+
+
+# License
+
+This is licensed under 'MIT' so feel free to use 🦖
